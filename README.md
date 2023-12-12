@@ -1,5 +1,5 @@
 👋 Hi, I’m Mario 👋 
 
-I’m a web developer in Tokyo :)
+Full stack web developer in Tokyo :)
 
 
