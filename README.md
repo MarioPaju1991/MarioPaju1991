@@ -8,12 +8,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/mario-paju">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <br>
   <a href="https://www.mariopaju.me">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
   </a>
 </div>
 
@@ -28,3 +24,5 @@ I am a Full Stack Developer from Estonia living in Japan.
 -  I'm enjoying exploring and learning new things.
 
 -  In my free time, I like hiking and stay active in the gym.
+
+-  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mario-paju)
