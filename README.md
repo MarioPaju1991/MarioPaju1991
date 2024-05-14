@@ -17,9 +17,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer from Estonia living in Japan.
+I am Estonian living in Japan.
 
--  I’m looking for a developer position to enhance my skills.
+-  I like coding and making interesting applications
 
 -  I'm enjoying exploring and learning new things.
 
